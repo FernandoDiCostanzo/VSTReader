@@ -22,24 +22,29 @@ Just click on them to add the selected plugin to the window. (You can have multi
 
 # Scan Plugin
 In the main command bar , click on "Plugin" and then "Edit the list of avaiable plugin"... it will apper the list of the current avaiable plugin with some information such as the format, the category ecc...
+
+![image](https://user-images.githubusercontent.com/55757804/141980355-2ea8b519-5698-46cf-9ce2-5c0d3fbc2385.png)
+
+![image](https://user-images.githubusercontent.com/55757804/141980424-e0800584-df64-4cf8-a12a-99e39d0f9d47.png)
+
 Now clicking on "Option" and then "Scan for new or updated VST3 plugin" it will appear another window contains the paths where the application search for VST3 plugin...
 
 ![image](https://user-images.githubusercontent.com/55757804/141980685-3cc3abf6-8dc9-4511-8289-8ecfbc82d74f.png)
 
 CLicking on the "+" or "-" buttons you can add/remove those paths.
 
-![image](https://user-images.githubusercontent.com/55757804/141980940-2a1f08ea-6f14-4850-b083-77af1106c74a.png)
-
 ![image](https://user-images.githubusercontent.com/55757804/141980783-433e4b8b-ff58-400a-a7b8-221448692116.png)
 
 Once upon you have added your local pluing paths , click on "scan" and the application will recognize plugins and add them to the current avaible plugin...
 If the operation succeed now you can add the plugin in the same way showed before.
-![image](https://user-images.githubusercontent.com/55757804/141980355-2ea8b519-5698-46cf-9ce2-5c0d3fbc2385.png)
-![image](https://user-images.githubusercontent.com/55757804/141980424-e0800584-df64-4cf8-a12a-99e39d0f9d47.png)
+
+![image](https://user-images.githubusercontent.com/55757804/141980940-2a1f08ea-6f14-4850-b083-77af1106c74a.png)
+
+# Plugin properties
+Right-click on plugin will show you a menu that allows you to :
 
 
-![image](https://user-images.githubusercontent.com/55757804/141981019-64163edb-5b2e-48bc-b9cf-e3e85f3f56db.png)
-![image](https://user-images.githubusercontent.com/55757804/141981221-f6c511f7-5f16-4006-b9cd-ed46330d739b.png)
+
 
 
 

@@ -42,6 +42,21 @@ If the operation succeed now you can add the plugin in the same way showed befor
 
 # Plugin properties
 Right-click on plugin will show you a menu that allows you to :
+1. Delete the filter 
+2. Disconnect all pins
+3. Bypass the filter 
+4. Show the GUI Plugin
+5. Show all plugin's programs
+6. Show all plugin's parameters
+7. Show degub log
+8. ecc...
+
+![image](https://user-images.githubusercontent.com/55757804/141983325-963800f2-01d4-4f12-8dd5-9d31bdc3e565.png)
+
+Focus on the "6" it will show a windows contains all the parameters that you can change by sliders/buttons ( basing on the parameter's type).
+
+![image](https://user-images.githubusercontent.com/55757804/141983184-a9ef9fca-7022-4a90-aaee-8073dfcc2f7d.png)
+
 
 
 
